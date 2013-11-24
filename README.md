@@ -9,9 +9,9 @@ But this is far from being a finished project...
 To Play
 -------
 
-Z Q S D    : moving
-A          : change point of view
-right clic : fire an energie bolt
+- Z Q S D    : moving
+- A          : change point of view
+- right clic : fire an energie bolt
 
 (you can change the field of view by changing the last number in the constructor of "carte" in game_engine.cpp)
 
