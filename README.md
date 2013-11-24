@@ -10,9 +10,11 @@ To Play
 -------
 
 - Z Q S D    : moving
+- espace     : jump
 - A          : change point of view
 - right clic : fire an energie bolt
 - P          : screenshot
+- escape     : quit
 
 (you can change the field of view by changing the last number in the constructor of "carte" in game_engine.cpp)
 
