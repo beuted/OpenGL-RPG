@@ -1,0 +1,35 @@
+================== For The King ===============================
+=                                                             =
+= Idée de réalisation numero 1 : For The King                 =
+=                                                             = 
+= Genre : Sandbox, persistant World, FPS                      =
+=                                                             =
+= Inspirations : Minecraft, King Arthur's Gold,               =
+=                                                             =
+= Idée : Le joueur incarne un personnage pouvant être de      =
+= trois classes différentes : Archer, Chevalier ou            =
+= Constructeur (d'autres classes sont envisageables) dans un  =
+= monde entièrement modifiable formé de cubes.                =
+= Les Constructeurs ont pour but de construire des defenses   =
+= efficasses pour leur equipe et des structures leur donnant  =
+= des avantages (armes par expl) pour cela les constructeurs  =
+= creusent le sol ou coupent des arbres pour ramener des      =
+= ressources.                                                 =
+= Les chevaliers sont des combattants corps à corps dotés     =
+= d'une épée et d'un bouclier. Le systeme de combat n'est pas =
+= définit mais pour que cela soit un peu interessant il       =
+= faudrait quelque chose comme la possibilité de "charger"    =
+= ses attaques et de bloquer avec son bouclier.               =
+= Les archers sont moins resistants que les chevalier mais    =
+= tirent à distances, ils peuvent charger leurs tirs          =
+= également.                                                  =
+=                                                             =
+= Etapes de dev :                                             =
+=  - Mise en place du monde (matrice de cube)                 =
+=  - Mise en place du joueur moteur physique                  =
+=  - Creation du mode sandbox (createur de carte à la         =
+=    premiere personne)                                       =
+=  - Amelioration des ombres                                  =
+=  - creation des classes                                     =
+=                                                             =
+===============================================================

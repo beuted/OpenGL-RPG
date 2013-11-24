@@ -1,0 +1,13 @@
+=== BUGS CONNUS ==========================
+
+- Fine droite sur les bord de la skybox lui faisant perdre beaucoup de crédibilité...
+- Il arrive qu'une boule d'energie se coince hors de la carte ce qui a pour résultat que les boules d'energie suivante voit leur gestion de particule altéré et qu'elles ne réagissent plus aux collisions.
+- Des fuites mémoires encore présentes malgré nos efforts...
+- Problèmes de couleurs au niveau des ombres.
+
+=== AMELIORATIONS DIRECTEMENT EVISAGEES ===
+
+- Supprimer la posibilité de se deplacer une fois en l'air (améliorer la machine à etat de personnage)
+- Ajouter un cache à la Map et pouvoir la stocker dans un fichier sauvegarde
+- Pouvoir ajouter des blocs sur la carte (détéction de la position du bloc posé par lancé de rayon sur les faces des blocs présents)
+- Révision de l'organisation du code pour les collisions (un peu organisé dans la précipitation)

@@ -1,0 +1,50 @@
+==================== Les algos de gestion lumiere ==================
+
+1) Lumiere solaire perpendiculaire :
+
+% : bloc eclairé
+# : bloc non eclairé
+| : rayon lumineux soleil
+
+
+| | | | | | | | |
+
+   %%%%%%%%
+
+%%%########%%%
+
+###############%%
+
+
+Pour chaque bloc de la carte faire
+	bloc.eclairé = true;
+	pour chaque bloc au dessus du bloc faire
+		si bloc != bloc vide
+			bloc.eclairé = false;
+		fin si
+	fin pour
+fin pour
+
+1) lumiere non perpendiculaire (angle alpha)
+
+/ / / / / / / / /
+
+   %%%%%%%%
+
+%########%%%%%
+
+#############%%%%
+
+
+Pour chaque bloc de la carte faire
+	bloc.eclairé = true;
+	pour chaque bloc au dessus du bloc dans la direction alpha faire
+		si bloc != bloc vide
+			bloc.eclairé = false;
+		fin si
+	fin pour
+fin pour
+
+
+
+

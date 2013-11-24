@@ -1,0 +1,12 @@
+J'ai un peu galéré alors je mets comment faire ici :
+
+Comment faire tourner un programme SDL/OpenGL en utilisant Eclipse sous linux.
+
+prérequis : - avoir installer SDL et OpenGL (faut pas deconner)
+	    - avoir installer le pluggin CDT sur son eclipse pour pouvor faire
+	      du c/c++ (http://max.berger.name/howto/cdt/ar01s04.jsp)
+
+Ouvrir son projet, aller dans Projet > Proprieties puis C/C++ Build > settings puis cross G++ linker > librairies puis ajouter une librairie et entrer "GL" en ajouter une autre "GLU" en ajouter une autre "SDL"
+
+Voila bisous
+

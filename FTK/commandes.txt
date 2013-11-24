@@ -1,0 +1,14 @@
+Commandes par default :
+
+- Q,S,D,Z : deplacements
+- A : changer de vue (3 types de vue)
+- Molette sourie : zoomer, dezoomer
+- Clic gauche : envoie une boule d'energie capable
+		de detruire les blocs.
+- ESPACE : saut
+- P : capture d'ecran
+- ECHAP : Quitter
+
+Note : 
+     Si le jeu est lent chez vous il suffit de diminuer le dernier parametre
+du constructeur de carte ligne 19 de game_engine.cpp. Celui ci correspond à la portion de carte affiché mais les parametres graphiques ne sont pas encore modifiable de l'exterieur.

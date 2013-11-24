@@ -1,0 +1,7 @@
+Questions Pratiques :
+
+- Logiciel de Developement : Eclipse ? (je suis pour)
+
+- Bibliotheques utilisées : SDL, OpenGL
+
+- ! ! Checker valgrind à chaque nouvelle structure et plus si affinité sinon c'est vite horrible a debugger.

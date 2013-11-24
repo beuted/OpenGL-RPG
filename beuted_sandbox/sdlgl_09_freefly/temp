@@ -1,0 +1,972 @@
+main.cpp:1:1: warning: '$' in identifier or number
+main.cpp:1:1: error: stray ‘#’ in program
+main.cpp:1:1: error: ‘$’ does not name a type
+In file included from main.cpp:3:0:
+/usr/include/GL/glu.h:293:7: error: ‘GLint’ does not name a type
+In file included from main.cpp:3:0:
+/usr/include/GL/glu.h:294:7: error: ‘GLint’ does not name a type
+/usr/include/GL/glu.h:295:7: error: ‘GLint’ does not name a type
+/usr/include/GL/glu.h:296:7: error: ‘GLint’ does not name a type
+/usr/include/GL/glu.h:297:7: error: ‘GLint’ does not name a type
+/usr/include/GL/glu.h:298:7: error: ‘GLint’ does not name a type
+/usr/include/GL/glu.h:299:7: error: ‘GLboolean’ does not name a type
+/usr/include/GL/glu.h:300:54: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:300:69: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:300:83: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:300:100: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:300:114: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:304:50: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:304:66: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:304:82: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:304:96: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:309:13: error: ‘GLubyte’ does not name a type
+/usr/include/GL/glu.h:310:60: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:310:77: error: ‘GLfloat’ has not been declared
+/usr/include/GL/glu.h:311:13: error: ‘GLubyte’ does not name a type
+/usr/include/GL/glu.h:312:64: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:312:78: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:313:70: error: ‘GLfloat’ does not name a type
+/usr/include/GL/glu.h:313:92: error: ‘GLfloat’ does not name a type
+/usr/include/GL/glu.h:313:120: error: ‘GLint’ does not name a type
+/usr/include/GL/glu.h:314:34: error: variable or field ‘gluLookAt’ declared void
+/usr/include/GL/glu.h:314:34: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:314:49: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:314:64: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:314:79: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:314:97: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:314:115: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:314:133: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:314:147: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:314:161: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:318:60: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:319:57: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:320:61: error: ‘GLvoid’ has not been declared
+/usr/include/GL/glu.h:321:64: error: ‘GLvoid’ has not been declared
+/usr/include/GL/glu.h:322:54: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:322:71: error: ‘GLfloat’ has not been declared
+/usr/include/GL/glu.h:322:87: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:322:101: error: ‘GLfloat’ has not been declared
+/usr/include/GL/glu.h:322:119: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:322:132: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:323:57: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:323:74: error: ‘GLfloat’ has not been declared
+/usr/include/GL/glu.h:324:56: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:324:74: error: ‘GLfloat’ has not been declared
+/usr/include/GL/glu.h:324:91: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:324:109: error: ‘GLfloat’ has not been declared
+/usr/include/GL/glu.h:324:126: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:324:141: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:324:156: error: ‘GLfloat’ has not been declared
+/usr/include/GL/glu.h:324:174: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:324:188: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:324:202: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:325:35: error: variable or field ‘gluOrtho2D’ declared void
+/usr/include/GL/glu.h:325:35: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:325:50: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:325:66: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:325:83: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:326:57: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:326:73: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:326:89: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:326:103: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:326:116: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:326:132: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:327:39: error: variable or field ‘gluPerspective’ declared void
+/usr/include/GL/glu.h:327:39: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:327:54: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:327:71: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:327:87: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:328:38: error: variable or field ‘gluPickMatrix’ declared void
+/usr/include/GL/glu.h:328:38: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:328:50: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:328:62: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:328:77: error: ‘GLdouble’ was not declared in this scope
+/usr/include/GL/glu.h:328:92: error: ‘GLint’ was not declared in this scope
+/usr/include/GL/glu.h:328:99: error: ‘viewport’ was not declared in this scope
+/usr/include/GL/glu.h:329:7: error: ‘GLint’ does not name a type
+/usr/include/GL/glu.h:330:52: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:330:65: error: ‘GLfloat’ has not been declared
+/usr/include/GL/glu.h:330:80: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:330:94: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:331:61: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:332:62: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:333:60: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:334:64: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:335:60: error: ‘GLboolean’ has not been declared
+/usr/include/GL/glu.h:336:7: error: ‘GLint’ does not name a type
+/usr/include/GL/glu.h:337:52: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:337:69: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:337:83: error: ‘GLint’ has not been declared
+/usr/include/GL/glu.h:339:65: error: ‘GLvoid’ has not been declared
+/usr/include/GL/glu.h:340:61: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:343:59: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:343:76: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:343:93: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:344:61: error: ‘GLenum’ has not been declared
+/usr/include/GL/glu.h:344:75: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:345:59: error: ‘GLdouble’ has not been declared
+/usr/include/GL/glu.h:345:79: error: ‘GLvoid’ has not been declared
+/usr/include/GL/glu.h:346:7: error: ‘GLint’ does not name a type
+/usr/include/GL/glu.h:347:7: error: ‘GLint’ does not name a type
+In file included from /usr/include/c++/4.5/cstdlib:44:0,
+                 from main.cpp:4:
+/usr/include/c++/4.5/cstddef:51:11: error: ‘::ptrdiff_t’ has not been declared
+/usr/include/c++/4.5/cstddef:52:11: error: ‘::size_t’ has not been declared
+In file included from /usr/include/c++/4.5/cstdlib:68:0,
+                 from main.cpp:4:
+/usr/include/stdlib.h:140:8: error: ‘size_t’ does not name a type
+In file included from /usr/include/c++/4.5/cstdlib:68:0,
+                 from main.cpp:4:
+/usr/include/stdlib.h:337:4: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:351:5: error: ‘int32_t’ does not name a type
+/usr/include/stdlib.h:352:5: error: ‘int32_t’ does not name a type
+/usr/include/stdlib.h:353:5: error: ‘int32_t’ does not name a type
+/usr/include/stdlib.h:357:5: error: ‘int32_t’ does not name a type
+/usr/include/stdlib.h:361:8: error: ‘int32_t’ has not been declared
+/usr/include/stdlib.h:367:4: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:471:22: error: ‘size_t’ was not declared in this scope
+/usr/include/stdlib.h:471:37: error: expected ‘,’ or ‘;’ before ‘throw’
+/usr/include/stdlib.h:473:22: error: ‘size_t’ was not declared in this scope
+/usr/include/stdlib.h:473:38: error: ‘size_t’ was not declared in this scope
+/usr/include/stdlib.h:473:51: error: initializer expression list treated as compound expression
+/usr/include/stdlib.h:474:6: error: expected ‘,’ or ‘;’ before ‘throw’
+/usr/include/stdlib.h:485:36: error: ‘size_t’ has not been declared
+In file included from /usr/include/stdlib.h:497:0,
+                 from /usr/include/c++/4.5/cstdlib:68,
+                 from main.cpp:4:
+/usr/include/alloca.h:33:22: error: ‘size_t’ was not declared in this scope
+/usr/include/alloca.h:33:37: error: expected ‘,’ or ‘;’ before ‘throw’
+In file included from /usr/include/c++/4.5/cstdlib:68:0,
+                 from main.cpp:4:
+/usr/include/stdlib.h:503:22: error: ‘size_t’ was not declared in this scope
+/usr/include/stdlib.h:503:37: error: expected ‘,’ or ‘;’ before ‘throw’
+/usr/include/stdlib.h:508:45: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:508:65: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:756:9: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:756:25: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:761:34: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:761:50: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:764:36: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:764:52: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:840:6: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:843:6: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:847:31: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:851:31: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:860:38: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:864:36: error: ‘size_t’ has not been declared
+/usr/include/stdlib.h:871:8: error: ‘size_t’ does not name a type
+/usr/include/stdlib.h:874:8: error: ‘size_t’ does not name a type
+/usr/include/stdlib.h:937:46: error: ‘size_t’ has not been declared
+In file included from main.cpp:4:0:
+/usr/include/c++/4.5/cstdlib:122:11: error: ‘::mbstowcs’ has not been declared
+/usr/include/c++/4.5/cstdlib:134:11: error: ‘::wcstombs’ has not been declared
+In file included from /usr/include/stdio.h:75:0,
+                 from /usr/local/include/SDL/SDL_stdinc.h:35,
+                 from /usr/local/include/SDL/SDL_main.h:26,
+                 from /usr/local/include/SDL/SDL.h:28,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/include/libio.h:332:3: error: ‘size_t’ does not name a type
+/usr/include/libio.h:336:67: error: ‘size_t’ was not declared in this scope
+/usr/include/libio.h:364:62: error: ‘size_t’ has not been declared
+/usr/include/libio.h:373:6: error: ‘size_t’ has not been declared
+/usr/include/libio.h:495:8: error: ‘size_t’ does not name a type
+In file included from /usr/local/include/SDL/SDL_stdinc.h:35:0,
+                 from /usr/local/include/SDL/SDL_main.h:26,
+                 from /usr/local/include/SDL/SDL.h:28,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/include/stdio.h:316:35: error: ‘size_t’ has not been declared
+/usr/include/stdio.h:322:47: error: ‘size_t’ has not been declared
+/usr/include/stdio.h:334:20: error: ‘size_t’ has not been declared
+/usr/include/stdio.h:341:10: error: ‘size_t’ has not been declared
+/usr/include/stdio.h:383:44: error: ‘size_t’ has not been declared
+/usr/include/stdio.h:387:45: error: ‘size_t’ has not been declared
+/usr/include/stdio.h:659:11: error: ‘size_t’ has not been declared
+/usr/include/stdio.h:662:9: error: ‘size_t’ has not been declared
+/usr/include/stdio.h:672:8: error: ‘size_t’ has not been declared
+/usr/include/stdio.h:702:8: error: ‘size_t’ does not name a type
+/usr/include/stdio.h:708:8: error: ‘size_t’ does not name a type
+/usr/include/stdio.h:730:8: error: ‘size_t’ does not name a type
+/usr/include/stdio.h:732:8: error: ‘size_t’ does not name a type
+In file included from /usr/local/include/SDL/SDL_stdinc.h:58:0,
+                 from /usr/local/include/SDL/SDL_main.h:26,
+                 from /usr/local/include/SDL/SDL.h:28,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/include/string.h:45:40: error: ‘size_t’ has not been declared
+/usr/include/string.h:49:58: error: ‘size_t’ has not been declared
+/usr/include/string.h:58:18: error: ‘size_t’ has not been declared
+/usr/include/string.h:65:42: error: ‘size_t’ has not been declared
+/usr/include/string.h:68:60: error: ‘size_t’ has not been declared
+/usr/include/string.h:75:42: error: ‘size_t’ has not been declared
+/usr/include/string.h:77:58: error: ‘size_t’ has not been declared
+/usr/include/string.h:115:49: error: ‘size_t’ has not been declared
+/usr/include/string.h:117:65: error: ‘size_t’ has not been declared
+/usr/include/string.h:132:41: error: ‘size_t’ has not been declared
+/usr/include/string.h:140:9: error: ‘size_t’ has not been declared
+/usr/include/string.h:146:61: error: ‘size_t’ has not been declared
+/usr/include/string.h:153:8: error: ‘size_t’ does not name a type
+/usr/include/string.h:168:8: error: ‘size_t’ does not name a type
+/usr/include/string.h:183:47: error: ‘size_t’ has not been declared
+/usr/include/string.h:284:8: error: ‘size_t’ does not name a type
+/usr/include/string.h:288:8: error: ‘size_t’ does not name a type
+/usr/include/string.h:382:48: error: ‘size_t’ has not been declared
+/usr/include/string.h:383:32: error: ‘size_t’ has not been declared
+/usr/include/string.h:389:36: error: ‘size_t’ has not been declared
+/usr/include/string.h:392:41: error: ‘size_t’ has not been declared
+/usr/include/string.h:399:8: error: ‘size_t’ does not name a type
+/usr/include/string.h:406:8: error: ‘size_t’ does not name a type
+/usr/include/string.h:438:53: error: ‘size_t’ has not been declared
+/usr/include/string.h:451:33: error: ‘size_t’ has not been declared
+/usr/include/string.h:455:55: error: ‘size_t’ has not been declared
+/usr/include/string.h:459:31: error: ‘size_t’ has not been declared
+/usr/include/string.h:462:58: error: ‘size_t’ has not been declared
+/usr/include/string.h:540:65: error: ‘size_t’ has not been declared
+/usr/include/string.h:552:6: error: ‘size_t’ has not been declared
+/usr/include/string.h:577:36: error: ‘size_t’ has not been declared
+/usr/include/string.h:580:41: error: ‘size_t’ has not been declared
+/usr/include/string.h:593:34: error: ‘size_t’ has not been declared
+In file included from /usr/local/include/SDL/SDL_stdinc.h:72:0,
+                 from /usr/local/include/SDL/SDL_main.h:26,
+                 from /usr/local/include/SDL/SDL.h:28,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/include/iconv.h:43:8: error: ‘size_t’ does not name a type
+In file included from /usr/local/include/SDL/SDL_main.h:26:0,
+                 from /usr/local/include/SDL/SDL.h:28,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_stdinc.h:85:9: error: ‘int8_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:86:9: error: ‘uint8_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:87:9: error: ‘int16_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:88:9: error: ‘uint16_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:89:9: error: ‘int32_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:90:9: error: ‘uint32_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:93:9: error: ‘int64_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:95:9: error: ‘uint64_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:109:1: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_stdinc.h:110:1: error: ‘Sint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_stdinc.h:111:1: error: ‘Uint16’ was not declared in this scope
+/usr/local/include/SDL/SDL_stdinc.h:112:1: error: ‘Sint16’ was not declared in this scope
+/usr/local/include/SDL/SDL_stdinc.h:113:1: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_stdinc.h:114:1: error: ‘Sint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_stdinc.h:115:1: error: ‘Uint64’ was not declared in this scope
+/usr/local/include/SDL/SDL_stdinc.h:116:1: error: ‘Sint64’ was not declared in this scope
+In file included from /usr/local/include/SDL/SDL_main.h:26:0,
+                 from /usr/local/include/SDL/SDL.h:28,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_stdinc.h:350:71: error: ‘size_t’ has not been declared
+/usr/local/include/SDL/SDL_stdinc.h:383:17: error: ‘size_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:389:17: error: ‘size_t’ does not name a type
+/usr/local/include/SDL/SDL_stdinc.h:479:41: error: ‘Sint64’ was not declared in this scope
+/usr/local/include/SDL/SDL_stdinc.h:479:55: error: expected primary-expression before ‘char’
+/usr/local/include/SDL/SDL_stdinc.h:479:69: error: expected primary-expression before ‘int’
+/usr/local/include/SDL/SDL_stdinc.h:479:78: error: initializer expression list treated as compound expression
+/usr/local/include/SDL/SDL_stdinc.h:485:42: error: ‘Uint64’ was not declared in this scope
+/usr/local/include/SDL/SDL_stdinc.h:485:56: error: expected primary-expression before ‘char’
+/usr/local/include/SDL/SDL_stdinc.h:485:70: error: expected primary-expression before ‘int’
+/usr/local/include/SDL/SDL_stdinc.h:485:79: error: initializer expression list treated as compound expression
+/usr/local/include/SDL/SDL_stdinc.h:581:17: error: ‘size_t’ does not name a type
+In file included from /usr/local/include/SDL/SDL_main.h:26:0,
+                 from /usr/local/include/SDL/SDL.h:28,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_stdinc.h:585:110: error: ‘size_t’ has not been declared
+In file included from /usr/local/include/SDL/SDL_audio.h:30:0,
+                 from /usr/local/include/SDL/SDL.h:30,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_endian.h:66:19: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_endian.h:99:19: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_endian.h:142:19: error: ‘Uint64’ does not name a type
+In file included from /usr/local/include/SDL/SDL_audio.h:31:0,
+                 from /usr/local/include/SDL/SDL.h:30,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_mutex.h:84:55: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_mutex.h:106:62: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_mutex.h:114:17: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_mutex.h:154:83: error: ‘Uint32’ has not been declared
+In file included from /usr/local/include/SDL/SDL_audio.h:32:0,
+                 from /usr/local/include/SDL/SDL.h:30,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_thread.h:96:17: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_thread.h:101:17: error: ‘Uint32’ does not name a type
+In file included from /usr/local/include/SDL/SDL_audio.h:33:0,
+                 from /usr/local/include/SDL/SDL.h:30,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_rwops.h:63:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:83:3: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:84:4: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:85:3: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:122:17: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:123:17: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:124:17: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:125:17: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:126:17: error: ‘Uint64’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:127:17: error: ‘Uint64’ does not name a type
+/usr/local/include/SDL/SDL_rwops.h:130:59: error: ‘Uint16’ has not been declared
+/usr/local/include/SDL/SDL_rwops.h:131:59: error: ‘Uint16’ has not been declared
+/usr/local/include/SDL/SDL_rwops.h:132:59: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_rwops.h:133:59: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_rwops.h:134:59: error: ‘Uint64’ has not been declared
+/usr/local/include/SDL/SDL_rwops.h:135:59: error: ‘Uint64’ has not been declared
+In file included from /usr/local/include/SDL/SDL.h:30:0,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_audio.h:44:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_audio.h:45:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_audio.h:46:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_audio.h:47:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_audio.h:48:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_audio.h:49:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_audio.h:56:43: error: ‘Uint8’ has not been declared
+/usr/local/include/SDL/SDL_audio.h:83:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_audio.h:84:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_audio.h:86:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_audio.h:91:56: error: ‘Uint16’ has not been declared
+/usr/local/include/SDL/SDL_audio.h:190:106: error: ‘Uint8’ has not been declared
+/usr/local/include/SDL/SDL_audio.h:190:125: error: ‘Uint32’ has not been declared
+In file included from /usr/local/include/SDL/SDL.h:30:0,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_audio.h:199:42: error: variable or field ‘SDL_FreeWAV’ declared void
+/usr/local/include/SDL/SDL_audio.h:199:42: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_audio.h:199:49: error: ‘audio_buf’ was not declared in this scope
+/usr/local/include/SDL/SDL_audio.h:209:3: error: ‘Uint16’ has not been declared
+/usr/local/include/SDL/SDL_audio.h:209:22: error: ‘Uint8’ has not been declared
+/usr/local/include/SDL/SDL_audio.h:210:3: error: ‘Uint16’ has not been declared
+/usr/local/include/SDL/SDL_audio.h:210:22: error: ‘Uint8’ has not been declared
+/usr/local/include/SDL/SDL_audio.h:230:43: error: variable or field ‘SDL_MixAudio’ declared void
+/usr/local/include/SDL/SDL_audio.h:230:43: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_audio.h:230:50: error: ‘dst’ was not declared in this scope
+/usr/local/include/SDL/SDL_audio.h:230:55: error: expected primary-expression before ‘const’
+/usr/local/include/SDL/SDL_audio.h:230:73: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_audio.h:230:85: error: expected primary-expression before ‘int’
+In file included from /usr/local/include/SDL/SDL.h:31:0,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_cdrom.h:62:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_cdrom.h:63:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_cdrom.h:64:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_cdrom.h:65:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_cdrom.h:66:2: error: ‘Uint32’ does not name a type
+In file included from /usr/local/include/SDL/SDL_events.h:30:0,
+                 from /usr/local/include/SDL/SDL.h:35,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_active.h:49:17: error: ‘Uint8’ does not name a type
+In file included from /usr/local/include/SDL/SDL_events.h:31:0,
+                 from /usr/local/include/SDL/SDL.h:35,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_keyboard.h:55:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_keyboard.h:58:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_keyboard.h:96:17: error: ‘Uint8’ does not name a type
+In file included from /usr/local/include/SDL/SDL_mouse.h:30:0,
+                 from /usr/local/include/SDL/SDL_events.h:32,
+                 from /usr/local/include/SDL/SDL.h:35,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_video.h:44:2: error: ‘Sint16’ does not name a type
+/usr/local/include/SDL/SDL_video.h:45:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_video.h:49:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:50:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:51:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:52:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:64:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:65:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:66:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:67:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:68:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:69:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:70:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:71:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:72:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:73:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:74:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:75:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:76:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:77:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:80:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:82:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:89:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:92:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_video.h:101:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:104:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:150:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:151:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:152:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:153:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:154:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:155:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:156:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:157:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:158:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:159:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:160:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:161:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:162:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:184:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:187:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_video.h:188:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_video.h:195:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:196:2: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:240:68: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:276:77: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:287:76: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:348:37: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:359:25: error: ‘Sint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:359:35: error: ‘Sint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:359:45: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:359:55: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:395:52: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_video.h:395:71: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_video.h:395:92: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_video.h:406:46: error: ‘Uint16’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:406:54: error: ‘red’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:406:59: error: ‘Uint16’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:406:67: error: ‘green’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:406:74: error: ‘Uint16’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:406:82: error: ‘blue’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:406:86: error: initializer expression list treated as compound expression
+/usr/local/include/SDL/SDL_video.h:449:17: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:456:17: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_video.h:463:41: error: variable or field ‘SDL_GetRGB’ declared void
+/usr/local/include/SDL/SDL_video.h:463:41: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:463:71: error: expected primary-expression before ‘*’ token
+/usr/local/include/SDL/SDL_video.h:463:72: error: ‘fmt’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:464:5: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:464:12: error: ‘r’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:464:15: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:464:22: error: ‘g’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:464:25: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:464:32: error: ‘b’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:469:42: error: variable or field ‘SDL_GetRGBA’ declared void
+/usr/local/include/SDL/SDL_video.h:469:42: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:469:72: error: expected primary-expression before ‘*’ token
+/usr/local/include/SDL/SDL_video.h:469:73: error: ‘fmt’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:470:6: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:470:13: error: ‘r’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:470:16: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:470:23: error: ‘g’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:470:26: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:470:33: error: ‘b’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:470:36: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:470:43: error: ‘a’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:508:5: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:508:19: error: expected primary-expression before ‘int’
+/usr/local/include/SDL/SDL_video.h:508:30: error: expected primary-expression before ‘int’
+/usr/local/include/SDL/SDL_video.h:508:42: error: expected primary-expression before ‘int’
+/usr/local/include/SDL/SDL_video.h:509:4: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:509:18: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:509:32: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:509:46: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_video.h:509:58: error: initializer expression list treated as compound expression
+/usr/local/include/SDL/SDL_video.h:512:4: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:512:18: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:512:32: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:512:46: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:569:27: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:569:40: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:586:64: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:586:77: error: ‘Uint8’ has not been declared
+/usr/local/include/SDL/SDL_video.h:622:45: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:718:41: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:758:5: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_video.h:838:64: error: ‘Uint8’ has not been declared
+In file included from /usr/local/include/SDL/SDL_events.h:32:0,
+                 from /usr/local/include/SDL/SDL.h:35,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_mouse.h:41:2: error: ‘Sint16’ does not name a type
+/usr/local/include/SDL/SDL_mouse.h:42:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_mouse.h:43:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_mouse.h:44:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_mouse.h:55:17: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_mouse.h:63:17: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_mouse.h:68:44: error: variable or field ‘SDL_WarpMouse’ declared void
+/usr/local/include/SDL/SDL_mouse.h:68:44: error: ‘Uint16’ was not declared in this scope
+/usr/local/include/SDL/SDL_mouse.h:68:54: error: ‘Uint16’ was not declared in this scope
+/usr/local/include/SDL/SDL_mouse.h:84:4: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_mouse.h:84:11: error: ‘data’ was not declared in this scope
+/usr/local/include/SDL/SDL_mouse.h:84:17: error: ‘Uint8’ was not declared in this scope
+/usr/local/include/SDL/SDL_mouse.h:84:24: error: ‘mask’ was not declared in this scope
+/usr/local/include/SDL/SDL_mouse.h:84:30: error: expected primary-expression before ‘int’
+/usr/local/include/SDL/SDL_mouse.h:84:37: error: expected primary-expression before ‘int’
+/usr/local/include/SDL/SDL_mouse.h:84:44: error: expected primary-expression before ‘int’
+/usr/local/include/SDL/SDL_mouse.h:84:55: error: expected primary-expression before ‘int’
+/usr/local/include/SDL/SDL_mouse.h:84:64: error: initializer expression list treated as compound expression
+In file included from /usr/local/include/SDL/SDL_events.h:33:0,
+                 from /usr/local/include/SDL/SDL.h:35,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_joystick.h:122:17: error: ‘Sint16’ does not name a type
+/usr/local/include/SDL/SDL_joystick.h:140:17: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_joystick.h:153:17: error: ‘Uint8’ does not name a type
+In file included from /usr/local/include/SDL/SDL.h:35:0,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_events.h:113:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:114:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:115:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:120:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:121:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:122:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:128:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:129:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:130:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:131:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_events.h:132:2: error: ‘Sint16’ does not name a type
+/usr/local/include/SDL/SDL_events.h:133:2: error: ‘Sint16’ does not name a type
+/usr/local/include/SDL/SDL_events.h:138:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:139:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:140:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:141:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:142:2: error: ‘Uint16’ does not name a type
+/usr/local/include/SDL/SDL_events.h:147:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:148:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:149:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:150:2: error: ‘Sint16’ does not name a type
+/usr/local/include/SDL/SDL_events.h:155:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:156:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:157:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:158:2: error: ‘Sint16’ does not name a type
+/usr/local/include/SDL/SDL_events.h:159:2: error: ‘Sint16’ does not name a type
+/usr/local/include/SDL/SDL_events.h:164:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:165:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:166:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:167:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:177:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:178:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:179:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:180:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:188:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:195:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:200:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:205:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:215:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:221:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_events.h:265:29: error: ‘Uint32’ has not been declared
+/usr/local/include/SDL/SDL_events.h:328:17: error: ‘Uint8’ does not name a type
+In file included from /usr/local/include/SDL/SDL.h:40:0,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_timer.h:46:17: error: ‘Uint32’ does not name a type
+/usr/local/include/SDL/SDL_timer.h:49:40: error: variable or field ‘SDL_Delay’ declared void
+/usr/local/include/SDL/SDL_timer.h:49:40: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_timer.h:52:16: error: typedef ‘Uint32’ is initialized (use decltype instead)
+/usr/local/include/SDL/SDL_timer.h:52:26: error: ‘SDL_TimerCallback’ was not declared in this scope
+/usr/local/include/SDL/SDL_timer.h:82:42: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_timer.h:82:59: error: ‘SDL_TimerCallback’ was not declared in this scope
+/usr/local/include/SDL/SDL_timer.h:82:85: error: initializer expression list treated as compound expression
+/usr/local/include/SDL/SDL_timer.h:94:16: error: typedef ‘Uint32’ is initialized (use decltype instead)
+/usr/local/include/SDL/SDL_timer.h:94:26: error: ‘SDL_NewTimerCallback’ was not declared in this scope
+/usr/local/include/SDL/SDL_timer.h:102:50: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL_timer.h:102:67: error: ‘SDL_NewTimerCallback’ was not declared in this scope
+/usr/local/include/SDL/SDL_timer.h:102:98: error: expected primary-expression before ‘void’
+/usr/local/include/SDL/SDL_timer.h:102:109: error: initializer expression list treated as compound expression
+In file included from /usr/local/include/SDL/SDL.h:42:0,
+                 from sdlglutils.h:5,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL_version.h:43:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_version.h:44:2: error: ‘Uint8’ does not name a type
+/usr/local/include/SDL/SDL_version.h:45:2: error: ‘Uint8’ does not name a type
+In file included from sdlglutils.h:5:0,
+                 from main.cpp:6:
+/usr/local/include/SDL/SDL.h:69:38: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL.h:72:47: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL.h:75:48: error: variable or field ‘SDL_QuitSubSystem’ declared void
+/usr/local/include/SDL/SDL.h:75:48: error: ‘Uint32’ was not declared in this scope
+/usr/local/include/SDL/SDL.h:81:17: error: ‘Uint32’ does not name a type
+In file included from main.cpp:6:0:
+sdlglutils.h:11:1: error: ‘GLuint’ does not name a type
+In file included from /usr/include/c++/4.5/bits/stl_pair.h:60:0,
+                 from /usr/include/c++/4.5/bits/stl_algobase.h:66,
+                 from /usr/include/c++/4.5/bits/stl_tree.h:62,
+                 from /usr/include/c++/4.5/map:60,
+                 from freeflycamera.h:6,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/move.h:118:26: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/move.h: In function ‘void std::swap(_Tp (&)[_Nm], _Tp (&)[_Nm])’:
+/usr/include/c++/4.5/bits/move.h:122:12: error: ‘size_t’ was not declared in this scope
+/usr/include/c++/4.5/bits/move.h:122:19: error: expected ‘;’ before ‘__n’
+/usr/include/c++/4.5/bits/move.h:122:28: error: ‘__n’ was not declared in this scope
+In file included from /usr/include/c++/4.5/bits/stl_algobase.h:67:0,
+                 from /usr/include/c++/4.5/bits/stl_tree.h:62,
+                 from /usr/include/c++/4.5/map:60,
+                 from freeflycamera.h:6,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h: At global scope:
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:112:67: error: expected type-specifier before ‘ptrdiff_t’
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:112:67: error: expected ‘>’ before ‘ptrdiff_t’
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:123:15: error: ‘_Pointer’ does not name a type
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:125:15: error: ‘_Reference’ does not name a type
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:152:15: error: ‘ptrdiff_t’ does not name a type
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:163:15: error: ‘ptrdiff_t’ does not name a type
+In file included from /usr/include/c++/4.5/bits/stl_algobase.h:69:0,
+                 from /usr/include/c++/4.5/bits/stl_tree.h:62,
+                 from /usr/include/c++/4.5/map:60,
+                 from freeflycamera.h:6,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/stl_iterator.h:100:69: error: wrong number of template arguments (5, should be 3)
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:114:12: error: provided for ‘template<class _Category, class _Tp, class _Distance> struct std::iterator’
+/usr/include/c++/4.5/bits/stl_iterator.h:395:66: error: wrong number of template arguments (5, should be 3)
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:114:12: error: provided for ‘template<class _Category, class _Tp, class _Distance> struct std::iterator’
+/usr/include/c++/4.5/bits/stl_iterator.h:486:66: error: wrong number of template arguments (5, should be 3)
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:114:12: error: provided for ‘template<class _Category, class _Tp, class _Distance> struct std::iterator’
+/usr/include/c++/4.5/bits/stl_iterator.h:580:66: error: wrong number of template arguments (5, should be 3)
+/usr/include/c++/4.5/bits/stl_iterator_base_types.h:114:12: error: provided for ‘template<class _Category, class _Tp, class _Distance> struct std::iterator’
+In file included from /usr/include/c++/4.5/bits/stl_tree.h:62:0,
+                 from /usr/include/c++/4.5/map:60,
+                 from freeflycamera.h:6,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/stl_algobase.h: In static member function ‘static _Tp* std::__copy_move<_IsMove, true, std::random_access_iterator_tag>::__copy_m(const _Tp*, const _Tp*, _Tp*)’:
+/usr/include/c++/4.5/bits/stl_algobase.h:384:10: error: ‘ptrdiff_t’ does not name a type
+/usr/include/c++/4.5/bits/stl_algobase.h:385:8: error: ‘_Num’ was not declared in this scope
+/usr/include/c++/4.5/bits/stl_algobase.h:387:22: error: ‘_Num’ was not declared in this scope
+/usr/include/c++/4.5/bits/stl_algobase.h: In static member function ‘static _Tp* std::__copy_move_backward<_IsMove, true, std::random_access_iterator_tag>::__copy_move_b(const _Tp*, const _Tp*, _Tp*)’:
+/usr/include/c++/4.5/bits/stl_algobase.h:579:10: error: ‘ptrdiff_t’ does not name a type
+/usr/include/c++/4.5/bits/stl_algobase.h:580:8: error: ‘_Num’ was not declared in this scope
+/usr/include/c++/4.5/bits/stl_algobase.h:582:22: error: ‘_Num’ was not declared in this scope
+/usr/include/c++/4.5/bits/stl_algobase.h: In static member function ‘static bool std::__lexicographical_compare<true>::__lc(const _Tp*, const _Tp*, const _Up*, const _Up*)’:
+/usr/include/c++/4.5/bits/stl_algobase.h:915:10: error: ‘size_t’ does not name a type
+/usr/include/c++/4.5/bits/stl_algobase.h:916:10: error: ‘size_t’ does not name a type
+/usr/include/c++/4.5/bits/stl_algobase.h:918:16: error: ‘__len1’ was not declared in this scope
+/usr/include/c++/4.5/bits/stl_algobase.h:918:24: error: ‘__len2’ was not declared in this scope
+In file included from /usr/include/c++/4.5/ext/new_allocator.h:33:0,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/c++allocator.h:34,
+                 from /usr/include/c++/4.5/bits/allocator.h:48,
+                 from /usr/include/c++/4.5/bits/stl_tree.h:63,
+                 from /usr/include/c++/4.5/map:60,
+                 from freeflycamera.h:6,
+                 from main.cpp:7:
+/usr/include/c++/4.5/new: At global scope:
+/usr/include/c++/4.5/new:93:25: error: declaration of ‘operator new’ as non-function
+/usr/include/c++/4.5/new:93:20: error: ‘size_t’ is not a member of ‘std’
+/usr/include/c++/4.5/new:94:27: error: declaration of ‘operator new []’ as non-function
+/usr/include/c++/4.5/new:94:22: error: ‘size_t’ is not a member of ‘std’
+/usr/include/c++/4.5/new:97:25: error: declaration of ‘operator new’ as non-function
+/usr/include/c++/4.5/new:97:20: error: ‘size_t’ is not a member of ‘std’
+/usr/include/c++/4.5/new:97:33: error: expected primary-expression before ‘const’
+/usr/include/c++/4.5/new:98:27: error: declaration of ‘operator new []’ as non-function
+/usr/include/c++/4.5/new:98:22: error: ‘size_t’ is not a member of ‘std’
+/usr/include/c++/4.5/new:98:35: error: expected primary-expression before ‘const’
+/usr/include/c++/4.5/new:103:32: error: declaration of ‘operator new’ as non-function
+/usr/include/c++/4.5/new:103:27: error: ‘size_t’ is not a member of ‘std’
+/usr/include/c++/4.5/new:103:40: error: expected primary-expression before ‘void’
+/usr/include/c++/4.5/new:104:34: error: declaration of ‘operator new []’ as non-function
+/usr/include/c++/4.5/new:104:29: error: ‘size_t’ is not a member of ‘std’
+/usr/include/c++/4.5/new:104:42: error: expected primary-expression before ‘void’
+In file included from /usr/include/c++/4.5/x86_64-linux-gnu/bits/c++allocator.h:34:0,
+                 from /usr/include/c++/4.5/bits/allocator.h:48,
+                 from /usr/include/c++/4.5/bits/stl_tree.h:63,
+                 from /usr/include/c++/4.5/map:60,
+                 from freeflycamera.h:6,
+                 from main.cpp:7:
+/usr/include/c++/4.5/ext/new_allocator.h:39:14: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/ext/new_allocator.h:40:14: error: ‘std::ptrdiff_t’ has not been declared
+/usr/include/c++/4.5/ext/new_allocator.h:54:15: error: ‘size_t’ does not name a type
+/usr/include/c++/4.5/ext/new_allocator.h:55:15: error: ‘ptrdiff_t’ does not name a type
+/usr/include/c++/4.5/ext/new_allocator.h:84:16: error: ‘size_type’ has not been declared
+/usr/include/c++/4.5/ext/new_allocator.h:94:31: error: ‘size_type’ has not been declared
+/usr/include/c++/4.5/ext/new_allocator.h:97:7: error: ‘size_type’ does not name a type
+In file included from /usr/include/c++/4.5/bits/stl_tree.h:63:0,
+                 from /usr/include/c++/4.5/map:60,
+                 from freeflycamera.h:6,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/allocator.h:67:15: error: ‘size_t’ does not name a type
+/usr/include/c++/4.5/bits/allocator.h:68:15: error: ‘ptrdiff_t’ does not name a type
+/usr/include/c++/4.5/bits/allocator.h:89:15: error: ‘size_t’ does not name a type
+/usr/include/c++/4.5/bits/allocator.h:90:15: error: ‘ptrdiff_t’ does not name a type
+In file included from /usr/include/c++/4.5/map:60:0,
+                 from freeflycamera.h:6,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/stl_tree.h:160:15: error: ‘ptrdiff_t’ does not name a type
+/usr/include/c++/4.5/bits/stl_tree.h:232:15: error: ‘ptrdiff_t’ does not name a type
+/usr/include/c++/4.5/bits/stl_tree.h:340:15: error: ‘size_t’ does not name a type
+/usr/include/c++/4.5/bits/stl_tree.h:341:15: error: ‘ptrdiff_t’ does not name a type
+/usr/include/c++/4.5/bits/stl_tree.h:430:4: error: ‘size_type’ does not name a type
+/usr/include/c++/4.5/bits/stl_tree.h:669:7: error: ‘size_type’ does not name a type
+/usr/include/c++/4.5/bits/stl_tree.h:673:7: error: ‘size_type’ does not name a type
+/usr/include/c++/4.5/bits/stl_tree.h:718:7: error: ‘size_type’ does not name a type
+/usr/include/c++/4.5/bits/stl_tree.h:758:7: error: ‘size_type’ does not name a type
+/usr/include/c++/4.5/bits/stl_tree.h: In constructor ‘std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_Rb_tree_impl<_Key_compare, _Is_pod_comparator>::_Rb_tree_impl()’:
+/usr/include/c++/4.5/bits/stl_tree.h:434:6: error: class ‘std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_Rb_tree_impl<_Key_compare, _Is_pod_comparator>’ does not have any field named ‘_M_node_count’
+/usr/include/c++/4.5/bits/stl_tree.h: In constructor ‘std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_Rb_tree_impl<_Key_compare, _Is_pod_comparator>::_Rb_tree_impl(const _Key_compare&, std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_Node_allocator&)’:
+/usr/include/c++/4.5/bits/stl_tree.h:439:6: error: class ‘std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_Rb_tree_impl<_Key_compare, _Is_pod_comparator>’ does not have any field named ‘_M_node_count’
+/usr/include/c++/4.5/bits/stl_tree.h: In member function ‘std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_insert_unique_(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, const _Val&)’:
+/usr/include/c++/4.5/bits/stl_tree.h:1226:13: error: there are no arguments to ‘size’ that depend on a template parameter, so a declaration of ‘size’ must be available
+/usr/include/c++/4.5/bits/stl_tree.h:1226:13: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+/usr/include/c++/4.5/bits/stl_tree.h: In member function ‘std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_insert_equal_(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, const _Val&)’:
+/usr/include/c++/4.5/bits/stl_tree.h:1285:13: error: there are no arguments to ‘size’ that depend on a template parameter, so a declaration of ‘size’ must be available
+/usr/include/c++/4.5/bits/stl_tree.h: At global scope:
+/usr/include/c++/4.5/bits/stl_tree.h:1423:5: error: prototype for ‘typename std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::size_type std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::erase(const _Key&)’ does not match any in class ‘std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>’
+/usr/include/c++/4.5/bits/stl_tree.h:739:7: error: candidates are: void std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::erase(const key_type*, const key_type*)
+/usr/include/c++/4.5/bits/stl_tree.h:736:7: error:                 void std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::erase(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator)
+/usr/include/c++/4.5/bits/stl_tree.h:733:7: error:                 void std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::erase(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator, std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator)
+/usr/include/c++/4.5/bits/stl_tree.h:1408:5: error:                 void std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::erase(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator)
+/usr/include/c++/4.5/bits/stl_tree.h:1394:5: error:                 void std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::erase(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator)
+/usr/include/c++/4.5/bits/stl_tree.h:1542:28: error: no ‘typename std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::size_type std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::count(const _Key&) const’ member function declared in class ‘std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>’
+In file included from /usr/include/c++/4.5/cwchar:47:0,
+                 from /usr/include/c++/4.5/bits/postypes.h:42,
+                 from /usr/include/c++/4.5/bits/char_traits.h:42,
+                 from /usr/include/c++/4.5/string:42,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/wchar.h:148:40: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:156:40: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:163:67: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:173:4: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:183:6: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:193:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:209:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:249:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:253:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:284:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:303:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:311:59: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:314:12: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:323:41: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:328:39: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:332:65: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:336:53: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:343:40: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:363:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:368:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:372:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:374:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:406:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:412:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:421:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:427:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:441:44: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:568:40: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:578:53: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:602:47: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:623:48: error: ‘size_t’ has not been declared
+/usr/include/wchar.h:853:8: error: ‘size_t’ does not name a type
+/usr/include/wchar.h:863:8: error: ‘size_t’ does not name a type
+In file included from /usr/include/c++/4.5/bits/postypes.h:42:0,
+                 from /usr/include/c++/4.5/bits/char_traits.h:42,
+                 from /usr/include/c++/4.5/string:42,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/c++/4.5/cwchar:153:11: error: ‘::mbrlen’ has not been declared
+/usr/include/c++/4.5/cwchar:154:11: error: ‘::mbrtowc’ has not been declared
+/usr/include/c++/4.5/cwchar:156:11: error: ‘::mbsrtowcs’ has not been declared
+/usr/include/c++/4.5/cwchar:178:11: error: ‘::wcrtomb’ has not been declared
+/usr/include/c++/4.5/cwchar:183:11: error: ‘::wcscspn’ has not been declared
+/usr/include/c++/4.5/cwchar:184:11: error: ‘::wcsftime’ has not been declared
+/usr/include/c++/4.5/cwchar:185:11: error: ‘::wcslen’ has not been declared
+/usr/include/c++/4.5/cwchar:189:11: error: ‘::wcsrtombs’ has not been declared
+/usr/include/c++/4.5/cwchar:190:11: error: ‘::wcsspn’ has not been declared
+/usr/include/c++/4.5/cwchar:198:11: error: ‘::wcsxfrm’ has not been declared
+In file included from /usr/include/c++/4.5/bits/char_traits.h:42:0,
+                 from /usr/include/c++/4.5/string:42,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/postypes.h:98:11: error: ‘ptrdiff_t’ does not name a type
+In file included from /usr/include/c++/4.5/string:42:0,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/char_traits.h:111:66: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:113:14: error: ‘size_t’ in namespace ‘std’ does not name a type
+/usr/include/c++/4.5/bits/char_traits.h:117:39: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:120:57: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:123:57: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:126:35: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:152:64: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h: In static member function ‘static int __gnu_cxx::char_traits<_CharT>::compare(const char_type*, const char_type*, int)’:
+/usr/include/c++/4.5/bits/char_traits.h:154:12: error: ‘size_t’ is not a member of ‘std’
+/usr/include/c++/4.5/bits/char_traits.h:154:24: error: expected ‘;’ before ‘__i’
+/usr/include/c++/4.5/bits/char_traits.h:154:33: error: ‘__i’ was not declared in this scope
+/usr/include/c++/4.5/bits/char_traits.h: At global scope:
+/usr/include/c++/4.5/bits/char_traits.h:163:5: error: ‘size_t’ in namespace ‘std’ does not name a type
+/usr/include/c++/4.5/bits/char_traits.h:173:3: error: expected unqualified-id before ‘template’
+/usr/include/c++/4.5/bits/char_traits.h:187:55: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:196:55: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:206:33: error: ‘std::size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:258:61: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:261:14: error: ‘size_t’ does not name a type
+/usr/include/c++/4.5/bits/char_traits.h:266:34: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:270:52: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:274:52: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:278:30: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:329:61: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:332:14: error: ‘size_t’ does not name a type
+/usr/include/c++/4.5/bits/char_traits.h:337:34: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:341:52: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:345:52: error: ‘size_t’ has not been declared
+/usr/include/c++/4.5/bits/char_traits.h:349:30: error: ‘size_t’ has not been declared
+In file included from /usr/include/c++/4.5/string:46:0,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/ostream_insert.h:43:26: error: ‘streamsize’ has not been declared
+/usr/include/c++/4.5/bits/ostream_insert.h: In function ‘void std::__ostream_write(std::basic_ostream<_CharT, _Traits>&, const _CharT*, int)’:
+/usr/include/c++/4.5/bits/ostream_insert.h:48:13: error: ‘streamsize’ does not name a type
+/usr/include/c++/4.5/bits/ostream_insert.h:49:11: error: ‘__put’ was not declared in this scope
+/usr/include/c++/4.5/bits/ostream_insert.h: At global scope:
+/usr/include/c++/4.5/bits/ostream_insert.h:55:59: error: ‘streamsize’ has not been declared
+/usr/include/c++/4.5/bits/ostream_insert.h:75:27: error: ‘streamsize’ has not been declared
+/usr/include/c++/4.5/bits/ostream_insert.h: In function ‘std::basic_ostream<_CharT, _Traits>& std::__ostream_insert(std::basic_ostream<_CharT, _Traits>&, const _CharT*, int)’:
+/usr/include/c++/4.5/bits/ostream_insert.h:85:14: error: ‘streamsize’ does not name a type
+/usr/include/c++/4.5/bits/ostream_insert.h:86:12: error: ‘__w’ was not declared in this scope
+/usr/include/c++/4.5/bits/ostream_insert.h: At global scope:
+/usr/include/c++/4.5/bits/ostream_insert.h:117:68: error: ‘streamsize’ has not been declared
+/usr/include/c++/4.5/bits/ostream_insert.h:121:11: error: ‘streamsize’ has not been declared
+In file included from /usr/include/sched.h:43:0,
+                 from /usr/include/pthread.h:25,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr-default.h:41,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr.h:162,
+                 from /usr/include/c++/4.5/ext/atomicity.h:34,
+                 from /usr/include/c++/4.5/bits/basic_string.h:41,
+                 from /usr/include/c++/4.5/string:53,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/bits/sched.h:201:30: error: ‘size_t’ was not declared in this scope
+/usr/include/bits/sched.h:201:48: error: expected primary-expression before ‘const’
+/usr/include/bits/sched.h:201:71: error: initializer expression list treated as compound expression
+/usr/include/bits/sched.h:202:3: error: expected ‘,’ or ‘;’ before ‘throw’
+/usr/include/bits/sched.h:203:37: error: ‘size_t’ was not declared in this scope
+/usr/include/bits/sched.h:203:53: error: expected ‘,’ or ‘;’ before ‘throw’
+In file included from /usr/include/pthread.h:25:0,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr-default.h:41,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr.h:162,
+                 from /usr/include/c++/4.5/ext/atomicity.h:34,
+                 from /usr/include/c++/4.5/bits/basic_string.h:41,
+                 from /usr/include/c++/4.5/string:53,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/sched.h:118:46: error: ‘size_t’ has not been declared
+/usr/include/sched.h:122:46: error: ‘size_t’ has not been declared
+In file included from /usr/include/pthread.h:26:0,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr-default.h:41,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr.h:162,
+                 from /usr/include/c++/4.5/ext/atomicity.h:34,
+                 from /usr/include/c++/4.5/bits/basic_string.h:41,
+                 from /usr/include/c++/4.5/string:53,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/time.h:199:8: error: ‘size_t’ does not name a type
+/usr/include/time.h:217:8: error: ‘size_t’ does not name a type
+In file included from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr-default.h:41:0,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr.h:162,
+                 from /usr/include/c++/4.5/ext/atomicity.h:34,
+                 from /usr/include/c++/4.5/bits/basic_string.h:41,
+                 from /usr/include/c++/4.5/string:53,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/pthread.h:297:11: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:302:11: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:361:19: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:368:11: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:375:7: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:382:7: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:389:6: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:396:6: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:431:11: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:458:52: error: ‘size_t’ has not been declared
+/usr/include/pthread.h:463:52: error: ‘size_t’ has not been declared
+In file included from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr-default.h:42:0,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr.h:162,
+                 from /usr/include/c++/4.5/ext/atomicity.h:34,
+                 from /usr/include/c++/4.5/bits/basic_string.h:41,
+                 from /usr/include/c++/4.5/string:53,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/unistd.h:357:45: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:363:54: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:373:46: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:381:55: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:401:48: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:405:57: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:508:35: error: ‘size_t’ has not been declared
+In file included from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr-default.h:42:0,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr.h:162,
+                 from /usr/include/c++/4.5/ext/atomicity.h:34,
+                 from /usr/include/c++/4.5/bits/basic_string.h:41,
+                 from /usr/include/c++/4.5/string:53,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/unistd.h:620:8: error: ‘size_t’ does not name a type
+/usr/include/unistd.h:793:46: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:829:29: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:840:31: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:876:38: error: ‘size_t’ has not been declared
+In file included from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr-default.h:42:0,
+                 from /usr/include/c++/4.5/x86_64-linux-gnu/bits/gthr.h:162,
+                 from /usr/include/c++/4.5/ext/atomicity.h:34,
+                 from /usr/include/c++/4.5/bits/basic_string.h:41,
+                 from /usr/include/c++/4.5/string:53,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/unistd.h:898:39: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:905:47: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:916:41: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:918:49: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:936:57: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:937:6: error: ‘size_t’ has not been declared
+/usr/include/unistd.h:1056:20: error: ‘intptr_t’ was not declared in this scope
+/usr/include/unistd.h:1056:38: error: expected ‘,’ or ‘;’ before ‘throw’
+In file included from /usr/include/c++/4.5/string:56:0,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/basic_string.tcc: In function ‘std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::basic_string<_CharT, _Traits, _Alloc>&)’:
+/usr/include/c++/4.5/bits/basic_string.tcc:1018:14: error: ‘streamsize’ does not name a type
+/usr/include/c++/4.5/bits/basic_string.tcc:1019:32: error: ‘__w’ was not declared in this scope
+In file included from /usr/include/c++/4.5/string:53:0,
+                 from freeflycamera.h:7,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/basic_string.h: At global scope:
+/usr/include/c++/4.5/bits/basic_string.h: In instantiation of ‘std::basic_string<char>’:
+/usr/include/c++/4.5/bits/basic_string.tcc:1133:25:   instantiated from here
+/usr/include/c++/4.5/bits/basic_string.h:114:57: error: no type named ‘size_type’ in ‘class std::basic_string<char>::_CharT_alloc_type’
+/usr/include/c++/4.5/bits/basic_string.h:115:61: error: no type named ‘difference_type’ in ‘class std::basic_string<char>::_CharT_alloc_type’
+/usr/include/c++/4.5/bits/basic_string.h: In instantiation of ‘std::basic_string<wchar_t>’:
+/usr/include/c++/4.5/bits/basic_string.tcc:1148:25:   instantiated from here
+/usr/include/c++/4.5/bits/basic_string.h:114:57: error: no type named ‘size_type’ in ‘class std::basic_string<wchar_t>::_CharT_alloc_type’
+/usr/include/c++/4.5/bits/basic_string.h:115:61: error: no type named ‘difference_type’ in ‘class std::basic_string<wchar_t>::_CharT_alloc_type’
+In file included from main.cpp:7:0:
+freeflycamera.h:18:26: error: ‘Uint32’ has not been declared
+freeflycamera.h:32:5: error: ‘Uint32’ does not name a type
+In file included from /usr/include/c++/4.5/map:61:0,
+                 from freeflycamera.h:6,
+                 from main.cpp:7:
+/usr/include/c++/4.5/bits/stl_map.h: In instantiation of ‘std::map<SDLKey, bool>’:
+freeflycamera.h:37:15:   instantiated from here
+/usr/include/c++/4.5/bits/stl_map.h:139:58: error: no type named ‘size_type’ in ‘class std::_Rb_tree<SDLKey, std::pair<const SDLKey, bool>, std::_Select1st<std::pair<const SDLKey, bool> >, std::less<SDLKey>, std::allocator<std::pair<const SDLKey, bool> > >’
+/usr/include/c++/4.5/bits/stl_map.h:140:58: error: no type named ‘difference_type’ in ‘class std::_Rb_tree<SDLKey, std::pair<const SDLKey, bool>, std::_Select1st<std::pair<const SDLKey, bool> >, std::less<SDLKey>, std::allocator<std::pair<const SDLKey, bool> > >’
+/usr/include/c++/4.5/bits/stl_map.h: In instantiation of ‘std::map<std::basic_string<char>, SDLKey>’:
+freeflycamera.h:39:13:   instantiated from here
+/usr/include/c++/4.5/bits/stl_map.h:139:58: error: no type named ‘size_type’ in ‘class std::_Rb_tree<std::basic_string<char>, std::pair<const std::basic_string<char>, SDLKey>, std::_Select1st<std::pair<const std::basic_string<char>, SDLKey> >, std::less<std::basic_string<char> >, std::allocator<std::pair<const std::basic_string<char>, SDLKey> > >’
+/usr/include/c++/4.5/bits/stl_map.h:140:58: error: no type named ‘difference_type’ in ‘class std::_Rb_tree<std::basic_string<char>, std::pair<const std::basic_string<char>, SDLKey>, std::_Select1st<std::pair<const std::basic_string<char>, SDLKey> >, std::less<std::basic_string<char> >, std::allocator<std::pair<const std::basic_string<char>, SDLKey> > >’
+main.cpp: In function ‘int main(int, char**)’:
+main.cpp:28:11: error: ‘Uint32’ does not name a type
+main.cpp:32:5: error: ‘Uint32’ was not declared in this scope
+main.cpp:32:12: error: expected ‘;’ before ‘last_time’
+main.cpp:33:12: error: expected ‘;’ before ‘start_time’
+main.cpp:35:28: error: ‘SDL_Init’ cannot be used as a function
+main.cpp:42:33: error: ‘glMatrixMode’ was not declared in this scope
+main.cpp:43:21: error: ‘glLoadIdentity’ was not declared in this scope
+main.cpp:44:54: error: ‘gluPerspective’ was not declared in this scope
+main.cpp:46:27: error: ‘glEnable’ was not declared in this scope
+main.cpp:53:5: error: ‘last_time’ was not declared in this scope
+main.cpp:53:30: error: ‘SDL_GetTicks’ was not declared in this scope
+main.cpp:57:9: error: ‘start_time’ was not declared in this scope
+main.cpp:61:26: error: ‘union SDL_Event’ has no member named ‘type’
+main.cpp:92:9: error: ‘current_time’ was not declared in this scope
+main.cpp:93:9: error: ‘elapsed_time’ was not declared in this scope
+main.cpp:100:9: error: ‘stop_time’ was not declared in this scope
+main.cpp:101:39: error: ‘time_per_frame’ was not declared in this scope
+main.cpp:103:63: error: ‘SDL_Delay’ was not declared in this scope
+main.cpp: In function ‘void DrawGL(Carte)’:
+main.cpp:113:56: error: ‘glClear’ was not declared in this scope
+main.cpp:115:32: error: ‘glMatrixMode’ was not declared in this scope
+main.cpp:116:21: error: ‘glLoadIdentity’ was not declared in this scope
+main.cpp:123:13: error: ‘glFlush’ was not declared in this scope
+make: *** [main.o] Erreur 1
