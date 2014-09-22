@@ -1,5 +1,5 @@
-OpenGL-RPG
-==========
+OpenGL-RPG : 2013
+=================
 
 RPG created using openGL for a open 3D course in ENSIMAG.
 This project meant to introduce to the basics of OpenGL and what could be done with it
