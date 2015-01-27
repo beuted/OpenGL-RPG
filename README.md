@@ -4,7 +4,7 @@ OpenGL-RPG (C++): 2013
 RPG created using C++ with openGL for a open 3D course in ENSIMAG.
 This project meant to introduce to the basics of OpenGL and what could be done with it
 (skybox, textures, light rendering, shadows, particles, animation structures, ...) 
-But this is far from being a finished project...
+But this is far from being a finished project, and it's quite messy due to lake of time...
 
 To Play
 -------
