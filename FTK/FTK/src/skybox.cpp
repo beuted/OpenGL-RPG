@@ -9,12 +9,12 @@ void Skybox::initialize()
 {
 
   // Chargement des six textures
-  texture_image[0] = loadTexture( "textures/skybox/XN.bmp", true );
-  texture_image[1] = loadTexture( "textures/skybox/XP.bmp", true );
-  texture_image[2] = loadTexture( "textures/skybox/YN.bmp", true );
-  texture_image[3] = loadTexture( "textures/skybox/YP.bmp", true );
-  texture_image[4] = loadTexture( "textures/skybox/ZN.bmp", true );
-  texture_image[5] = loadTexture( "textures/skybox/ZP.bmp", true );
+  texture_image[0] = loadTexture( "textures/skybox/XN.bmp", false );
+  texture_image[1] = loadTexture( "textures/skybox/XP.bmp", false );
+  texture_image[2] = loadTexture( "textures/skybox/YN.bmp", false );
+  texture_image[3] = loadTexture( "textures/skybox/YP.bmp", false );
+  texture_image[4] = loadTexture( "textures/skybox/ZN.bmp", false );
+  texture_image[5] = loadTexture( "textures/skybox/ZP.bmp", false );
 	
 }
 
