@@ -54,9 +54,8 @@ GLuint loadTexture(const char * filename,bool useMipMap)
 
     if (useMipMap)
     {
-
-        gluBuild2DMipmaps(GL_TEXTURE_2D, 4, gl_fliped_surface->w,
-                          gl_fliped_surface->h, GL_RGBA,GL_UNSIGNED_BYTE,
+        gluBuild2DMipmaps(GL_TEXTURE_2D, GL_RGBA, gl_fliped_surface->w,
+                          gl_fliped_surface->h, GL_RGBA, GL_UNSIGNED_BYTE,
                           gl_fliped_surface->pixels);
 
         glTexParameteri(GL_TEXTURE_2D,GL_TEXTURE_MIN_FILTER,
@@ -65,7 +64,7 @@ GLuint loadTexture(const char * filename,bool useMipMap)
     }
     else
     {
-        glTexImage2D(GL_TEXTURE_2D, 0, 4, gl_fliped_surface->w,
+        glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, gl_fliped_surface->w,
                      gl_fliped_surface->h, 0, GL_RGBA,GL_UNSIGNED_BYTE,
                      gl_fliped_surface->pixels);
         glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);

@@ -1,5 +1,6 @@
 #include "mobile.h"
 #include "personnage.h"
+#include "dynamic.h"
 
 Dynamic::Dynamic() {
   gravity = {0.0, 0.0, -9.81};
